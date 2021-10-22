@@ -1,3 +1,4 @@
 hello git
 learn how to use git is a funny thing
 you can do everything you want
+what a wonderful day
